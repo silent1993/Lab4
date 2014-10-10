@@ -8,7 +8,7 @@ public class LIBB {
 	private double price;
 	private String pub_date;
 	private String publish;
-	private int ISBN;
+	private int ISBN2;
 
 	public LIBB() {
 

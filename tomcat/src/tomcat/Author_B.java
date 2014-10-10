@@ -4,7 +4,7 @@ public class Author_B {
 	private String name;
 	private String country;
 	private int age;
-	private int authorid;
+	private int authorid2;
 	public Author_B(){
 		
 	}

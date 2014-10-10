@@ -14,7 +14,7 @@ import dao.MyUtils;
 public class BookDB implements BookDao {
 	MyUtils db = new MyUtils();
 
-	@Override
+
 	public List<LIBB> getAllBooks(String author) throws SQLException {
 		// TODO Auto-generated method stub
 		Connection conn = db.getCon();
